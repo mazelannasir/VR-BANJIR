@@ -1,0 +1,6 @@
+{
+  "name": "EkoBanjir VR - Pembangunan dan Banjir",
+  "description": "Dunia animasi 3D interaktif untuk pembelajaran Sains Tingkatan 4 bertajuk Pembangunan dan Banjir, lengkap dengan simulasi hidrologi, aktiviti kejuruteraan hijau dan kuiz.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
